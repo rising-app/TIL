@@ -1,5 +1,4 @@
-# TIL
-## Today I Learned
+# Today I Learned
 We constantly learn day to day new small things about a variety of languages and technologies.
 
 ## About
